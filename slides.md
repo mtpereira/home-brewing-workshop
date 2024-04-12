@@ -1,31 +1,19 @@
 ---
-# try also 'default' to start simple
 theme: default
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
-# some information about your slides, markdown enabled
 title: Home Brewing - Lisbon Coffee Week.end 2024
-# apply any unocss classes to the current slide
 class: text-center
 layout: center
 canvasWidth: 640
-# https://sli.dev/custom/highlighters.html
 highlighter: shiki
-# https://sli.dev/guide/drawing
 drawings:
   persist: false
-# slide transition: https://sli.dev/guide/animations#slide-transitions
 transition: slide-up
-# enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
 mdc: true
 ---
 
 # Home Brewing - Lisbon Coffee Week.End 2024
 
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
 ---
 
 # Outline
@@ -74,7 +62,7 @@ get the idea!
 
 ## Why do I brew coffee at home?
 
-- So why do I brew coffee at home? Mostly because I find it simultaneously fun,
+- Mostly because I find it simultaneously fun,
 relaxing, engaging, and then I get to drink tasty coffee!
 - Having the freedom to try any coffee whenever you like in the comfort of your
 home is really great!
@@ -231,7 +219,6 @@ Hybrid:
 ## French press
 
 - Immersion brewer
-pouring.
 - Variables:
   1. Grind size
   2. Ratio
