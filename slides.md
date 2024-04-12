@@ -307,9 +307,14 @@ have the larger pebbles on top of the coffee bed, so that they act as a filter
 
 # Recipes
 
-## AeroPress: Immersion recipe
+## AeroPress: Bloom & immersion recipe
 
-
+A simple to follow standard position recipe
+1. ~1:15 ratio, 14 grams of medium-fine ground coffee, 200 ml of water
+2. Bloom for 30 seconds with 50 ml of water
+3. Add the remaining water, stir 3 times, and put the plunger on
+4. Let it steep for 1 minute, and then remove the plunger and stir 3 times
+5. Place the plunger again, and press gently and slowly, for about 30 seconds
 
 ---
 
@@ -317,8 +322,16 @@ have the larger pebbles on top of the coffee bed, so that they act as a filter
 
 ## AeroPress: Stir-and-bypass recipe
 
----
+My go-to recipe, inverted position, usually provides punchy acidity and clarity
+1. ~1:10 ratio, 18 grams of medium-coarse/coarse ground coffee, 200 ml of water
+2. Add 100 ml of water, stir gently for around 45 seconds
+3. Let it steep for 30 seconds or so while you rinse 2 AeroPress filters
+4. Place the cap on, and pull the plunger down to remove extraneous air
+5. Place the AeroPress on a server, swirl to dislodge coffee grounds from the 
+plunger's rubber end, and press gently and slowly, for about 30 seconds.
+6. By-pass with room temperature water with 100 ml of water
 
+---
 
 # References & useful links
 
