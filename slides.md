@@ -14,6 +14,8 @@ mdc: true
 
 # Home Brewing - Lisbon Coffee Week.End 2024
 
+Manuel Tiago Pereira
+
 ---
 
 # Outline
@@ -41,8 +43,8 @@ mdc: true
 
 3. Presenting the brewers: French press, V60, and AeroPress
     1. Brewing method
-    2. Brewing variables and constants
-    4. Brew 1 simple recipe with each brewer
+    2. Brewing variables
+    4. Brew (at least) 1 simple recipe with each brewer
 ---
 
 # Introduction
@@ -66,10 +68,8 @@ get the idea!
 relaxing, engaging, and then I get to drink tasty coffee!
 - Having the freedom to try any coffee whenever you like in the comfort of your
 home is really great!
-- Today I'll share with you how I approach brewing at home.
-- I'll share with you how I typically brew with the french press, V60, and 
-AeroPress, going over all the variables I consider when brewing with these 3 
-very different brewers.
+- Don't seek perfection, focus on the process instead, enjoy it, and learn from
+it.
 ---
 
 # What do you need to brew coffee at home?
@@ -78,8 +78,9 @@ very different brewers.
 
 - Specialty
 - Roast profile
-- Roast date
-- Any and all coffee you haven't tried before!
+- Flavour notes
+- Roast date (kind of...)
+- Any coffee you haven't tried before!
 ---
 
 # What do you need to brew coffee at home?
@@ -99,7 +100,7 @@ From worst to best, and from most convenient to less convenient:
 
 ## Water
 
-My personal choices:
+My personal choices for brewing at home:
 - Brita's "Filter on tap": as convenient as it gets, perfect for morning coffee
 - Third Wave Water: high TDS water that I've found to achieve a "juicy"
 mouth feel and high clarity
@@ -116,7 +117,7 @@ mouth feel and high clarity
 - Manual vs electric
 - Burr types
 - Why you'll likely end up spending at least 90 euro
-- My recommendation: look for a hand grinder, filtered-centred burrs, and 
+- My recommendation: look for a hand grinder, filtered-centred burrs, with a 
 sub-40 seconds grind time
 
 ---
@@ -291,18 +292,6 @@ find to increase aromas and clarity
 have the larger pebbles on top of the coffee bed, so that they act as a filter
 1. The second pour should be circular, focused on the centre of the cone
 
-
-# Recipes
-
-## AeroPress: Bloom & immersion recipe
-
-A simple to follow standard position recipe
-1. ~1:15 ratio, 14 grams of medium-fine ground coffee, 200 ml of water
-2. Bloom for 30 seconds with 50 ml of water
-3. Add the remaining water, stir 3 times, and put the plunger on
-4. Let it steep for 1 minute, and then remove the plunger and stir 3 times
-5. Place the plunger again, and press gently and slowly, for about 30 seconds
-
 ---
 
 # Recipes
@@ -320,6 +309,19 @@ plunger's rubber end, and press gently and slowly, for about 30 seconds.
 
 ---
 
+# Recipes
+
+## AeroPress: Bloom & immersion recipe
+
+A simple to follow standard position recipe
+1. ~1:15 ratio, 14 grams of medium-fine ground coffee, 200 ml of water
+2. Bloom for 30 seconds with 50 ml of water
+3. Add the remaining water, stir 3 times, and put the plunger on
+4. Let it steep for 1 minute, and then remove the plunger and stir 3 times
+5. Place the plunger again, and press gently and slowly, for about 30 seconds
+
+---
+
 # References & useful links
 
 - James Hoffmann's French press recipe: 
@@ -329,3 +331,12 @@ https://www.youtube.com/watch?v=st571DYYTR8
 - AeroPress recipes: https://aeroprecipe.com/
 - Grind size chart: https://honestcoffeeguide.com/coffee-grind-size-chart/
 - Jonathan Gagné's book "The Physics of Filter Coffee"
+
+---
+
+# Where to find me?
+
+- Instagram: @manueltiagopereira
+- Aeroprecipe: https://aeroprecipe.com/member/manuel-pereira
+- My website: Keep an eye on this address, I'll have it redirect to a coffee 
+blog _soon_ ™️
