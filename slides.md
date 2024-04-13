@@ -4,7 +4,6 @@ background: https://cover.sli.dev
 title: Home Brewing - Lisbon Coffee Week.end 2024
 class: text-center
 layout: center
-canvasWidth: 640
 highlighter: shiki
 drawings:
   persist: false
